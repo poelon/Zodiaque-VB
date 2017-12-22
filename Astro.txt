@@ -1,0 +1,27 @@
+
+Astrolog32 thème pour :
+Ven 22-12-2017 10:58:45 (HE +1:00 GMT)
+Paris   2:20'00E 48:52'00N
+
+Objet       Posit. Rét. Lati. Maî.Maison Maî. Vitesse Domification Placidus
+Soleil    : 270.701   + 0.000 (-) [12e ] [--] +1.019  -  Cuspide  1: 288.853
+Lune      : 315.097   + 0.049 (-) [ 1e ] [-E] +11.94  -  Cuspide  2: 340.894
+Mercure   : 253.043 R + 2.961 (E) [11e ] [eE] -0.116  -  Cuspide  3:  23.394
+Vénus     : 266.410   - 0.095 (-) [11e ] [--] +1.259  -  Cuspide  4:  50.570
+Mars      : 218.153   + 0.956 (D) [ 9e ] [-E] +0.626  -  Cuspide  5:  70.538
+Jupiter   : 225.241   + 1.036 (-) [ 9e ] [D-] +0.183  -  Cuspide  6:  88.445
+Saturne   : 270.257   + 0.906 (D) [12e ] [--] +0.118  -  Cuspide  7: 108.853
+Uranus    :  24.625 R - 0.576 (-) [ 3e ] [--] -0.010  -  Cuspide  8: 160.894
+Neptune   : 341.719   - 0.916 (D) [ 2e ] [-D] +0.017  -  Cuspide  9: 203.394
+Pluton    : 288.458   + 0.468 (-) [12e ] [c-] +0.033  -  Cuspide 10: 230.570
+Noeud Nord: 135.642 R + 0.000 (E) [ 7e ] [--] +0.001  -  Cuspide 11: 250.538
+Lune Noire: 285.898   + 2.569 (-) [12e ] [e-] +2.745  -  Cuspide 12: 268.445
+Ascendant : 288.853   _______     [ 1e ]      ______
+Fond Ciel :  50.570   _______     [ 4e ]      ______     Car Fix Mut TOT   +: 5
+Descendant: 108.853   _______     [ 7e ]      ______  Feu  1   1   2   4   -:11
+MilieuCiel: 230.570   _______     [10e ]      ______  Ter  5   1   0   6   M: 9
+                                                      Air  0   1   0   1   N: 3
+                                                      Eau  1   3   1   5   A: 9
+                                                      TOT  7   6   3  16   D: 3
+                                                    <: 4
+                                                                           
