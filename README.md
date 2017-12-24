@@ -24,7 +24,8 @@ _3 - affichage du zodiaque_
 clic sur "zodiaque"
 
 **Note**
-le fichier contenant les données de naissance ("Astro.txt") peut être généré par Astrolog32
+le fichier contenant les données de naissance ("Astro.txt") peut être généré par Astrolog32 :
 http://philipeau.free.fr/astro/telecharge_astrolog32.htm
-le fichier contenant les éphémérides ("ephemerides.txt") peut être généré par Zet9
+
+le fichier contenant les éphémérides ("ephemerides.txt") peut être généré par Zet9 :
 http://www.zaytsev.com/downloads.html
