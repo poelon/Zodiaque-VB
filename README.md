@@ -13,7 +13,8 @@ Allows from a sheet containing a theme and ephemeris to create sheets containing
 _1 - entrée des données de base_:
 clic sur "calcul thème", choisir "Astro.txt",
 clic sur "éphémérides", choisir "Ephemerides 1980-2030.txt",
-clic sur "phases éphémérides".
+clic sur "phases éphémérides",
+clic sur "calcul des aspects".
 
 _2 - génération des feuilles de transits_:
 clic sur "tableaux des transits",
